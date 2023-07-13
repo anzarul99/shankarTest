@@ -1,0 +1,10 @@
+{
+	"testid": "001",
+	"testcasename": "Homepage",
+	"data": [
+		{
+			"username": "shankar",
+			"password": "12345"
+		}
+	]
+}
